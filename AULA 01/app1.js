@@ -1,4 +1,4 @@
-console.log("nomes");
+console.log(" nomes");
 
 
 //para importar os nomes que estao no arquivo dados.js

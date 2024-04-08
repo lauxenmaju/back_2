@@ -28,4 +28,6 @@ if(fs.existsSync("../AULA02/dados.csv")){
 console.log("Arquivo não encontrado");
 }
 
-console.log("Fim");
+console.log(" Fim");
+
+

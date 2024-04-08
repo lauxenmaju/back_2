@@ -1,7 +1,7 @@
 //modulo através do móulo require
 //manipular modulo os (operatons system)
 
-const os = require("os");
+const os = require(" os");
 
 console.log(os.cpus());
 

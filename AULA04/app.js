@@ -18,7 +18,7 @@ fs.writeFile("./logs2.log",log,{flag:"a+"},(erro)=>{
     }
 })
 
-console.log("fim");
+console.log(" fim");
 
 //para excluir arquivos
 
